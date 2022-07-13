@@ -1,0 +1,13 @@
+.card__info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+    max-width: 241px;
+    margin: 25px auto 0 21px;
+    
+
+    column-gap: 10px;
+    
+}
