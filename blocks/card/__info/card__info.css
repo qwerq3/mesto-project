@@ -2,10 +2,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+    min-height: 76px;
     
     max-width: 241px;
-    margin: 25px auto 0 21px;
+    margin: 0px auto 0 21px;
     
 
     column-gap: 10px;
