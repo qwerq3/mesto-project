@@ -1,4 +1,4 @@
-.button_type_add {
+.profile__btn-add {
   width: 150px;
   height: 50px;
   margin-top: 35px;
@@ -8,9 +8,10 @@
 }
 
 @media screen and (max-width: 620px) {
-  .button_type_add {
+  .profile__btn-add {
       background-image: url(../../../image/ico_add_size_750.svg);
       width: 282px;
+      
       margin-top: 32px;
   }
 }
