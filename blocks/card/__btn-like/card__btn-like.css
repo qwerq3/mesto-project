@@ -1,0 +1,10 @@
+.card__btn-like {
+  background-image: url(../../../image/ico_heart.svg);
+  border: none;
+  width: 24px;
+  height: 19px;
+}
+
+.card__btn-like:hover {
+  opacity: .5;
+}
